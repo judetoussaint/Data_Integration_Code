@@ -1,0 +1,20 @@
+5d6c19b799e410ac
+8366074933ea7f05
+b59299985e07e3af
+0f42a243f900ddeb
+08e313b9a25eb61b
+50a9de730a4fa024
+d33b9e00d8f5e281
+18a22f9df2f5a056
+286cc1f328ce7e1c
+b0719a3b6edd2a78
+
+
+ssh -T git@gitlab.disney.com
+
+git init 
+git status
+git add .
+git commit -m'message'
+git remote -v
+git push new_origin master
